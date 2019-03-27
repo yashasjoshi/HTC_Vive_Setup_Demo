@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrhtcvivedemo.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Projects\\Unity\\VR HTC Vive Demo\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR HTC Vive Demo [Testing]"
+        }
+      }
+    }
+  ]
+}
